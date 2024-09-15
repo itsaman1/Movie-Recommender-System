@@ -1,5 +1,5 @@
 
-# Movie Recommedation System
+# Movie Recommedator System
 
 Designed and implemented a content-based movie recommender system using movie metadata from TMDB. Processed and engineered features from movie genres, keywords, cast, and crew to generate movie similarity scores.
 Utilized data preprocessing techniques, including handling missing values and converting text data into numerical vectors using CountVectorizer. Calculated movie similarities using cosine similarity to facilitate accurate recommendations
